@@ -1,10 +1,10 @@
-#版本：  
-基于平台：pycharm2019/anaconda5.2.0/ubuntu18.04  
+##版本：  
+基本平台：pycharm2019/anaconda5.2.0/ubuntu18.04  
 核心库文件  
 keras==2.1.5  
 tensorflow==1.4  
 python==3.6  
-#文件说明：  
+###文件说明：  
 data/H5/:训练模型文件  
 result/:测试集文件  
 本项目提供一个基于DIV2K剪裁96x96共计5W张图像训练400Epoch的模型，设置了选用最佳模型  
